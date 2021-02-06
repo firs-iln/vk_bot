@@ -1,0 +1,13 @@
+{
+    "one_time": true,
+    "buttons": [
+        [{
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"2\"}",
+                    "label": "Хочу!"
+                },
+                "color": "primary"
+        }]
+        ]
+}

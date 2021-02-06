@@ -1,0 +1,21 @@
+{
+    "inline": true,
+    "buttons": [
+        [{
+            "action": {
+                "type": "text",
+                "payload": "{\"button\": \"1\"}",
+                "label": "Идём в корзину!"
+            },
+          "color": "positive"
+             },
+        {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"2\"}",
+                    "label": "Назад к меню"
+                },
+                "color": "primary"
+            }
+        ]]
+}

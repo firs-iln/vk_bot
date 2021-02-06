@@ -1,0 +1,13 @@
+{
+    "inline": true,
+    "buttons": [
+        [{
+            "action": {
+                "type": "text",
+                "payload": "{\"button\": \"1\"}",
+                "label": "Назад к оформлению"
+            },
+          "color": "positive"
+             }
+        ]]
+}

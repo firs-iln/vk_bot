@@ -1,0 +1,20 @@
+{
+    "inline": true,
+    "buttons": [
+        [{
+            "action": {
+                "type": "text",
+                "label": "Наличными курьеру"
+            },
+            "color": "primary"
+             },
+        {
+            "action": {
+                "type": "text",
+                "label": "Картой курьеру"
+            },
+            "color": "primary"
+        }
+        ]
+    ]
+}

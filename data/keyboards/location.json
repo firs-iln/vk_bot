@@ -1,0 +1,11 @@
+{
+    "inline": true,
+    "buttons": [
+        [{
+            "action": {
+                "type": "location",
+                "payload": "{\"button\": \"1\"}"
+            }
+        }]
+        ]
+}

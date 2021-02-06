@@ -1,0 +1,21 @@
+{
+    "inline": true,
+    "buttons": [
+        [{
+            "action": {
+                "type": "text",
+                "payload": "{\"button\": \"1\"}",
+                "label": "Да!"
+            },
+          "color": "positive"
+             },
+        {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"2\"}",
+                    "label": "Нет!"
+                },
+                "color": "negative"
+            }
+        ]]
+}
